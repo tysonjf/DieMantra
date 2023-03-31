@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DieMantra
-- 👀 I’m interested in ... HTML/CSS/JAVASCRIPT
-- 🌱 I’m currently learning ... HTML/CSS/JAVASCRIPT
+- 👀 I’m interested in ... Typescript
+- 🌱 I’m currently learning ... Typescript/react/express/c#
 - 💞️ I’m looking to collaborate on ... Not much...
 - 📫 How to reach me ... diemantra@gmail.com
 
