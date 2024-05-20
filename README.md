@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DieMantra
-- 👀 I’m interested in ... Typescript
-- 🌱 I’m currently learning ... Typescript/react/express/c#
+- 👋 Hi, I’m @Tysonjf
+- 👀 I’m interested in ... Web
+- 🌱 I’m currently learning ... Typescript/react/vue/node/python
 - 💞️ I’m looking to collaborate on ... Not much...
-- 📫 How to reach me ... diemantra@gmail.com
+- 📫 How to reach me ... tysonfilia95@gmail.com
 
 <!---
 DieMantra/DieMantra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
